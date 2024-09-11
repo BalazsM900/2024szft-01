@@ -17,6 +17,7 @@ div {
 table {
     width: 100%;
     border: solid 3px black;
+    border-radius: 10px;
 }
 
 
